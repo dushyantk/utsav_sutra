@@ -1,0 +1,5 @@
+env
+utsav_sutra
+*.DS_Store
+*.pyc
+__pycache__
